@@ -1,23 +1,3 @@
-# Face_mask_detection
-To generate a human-like report for the uploaded notebook (`Face_mask_detection.ipynb`), I'll review the contents and summarize it with a clear structure that includes:
-
-* **Project Title**
-* **Objective**
-* **Tools and Technologies Used**
-* **Dataset Description**
-* **Data Preprocessing**
-* **Model Architecture and Training**
-* **Evaluation Metrics and Results**
-* **Live Detection System**
-* **Conclusion and Future Work**
-
-Let me extract and analyze the notebook content first.
-
-
-Based on the content of the uploaded notebook, here is a professionally written, human-like project report:
-
----
-
 # **Face Mask Detection Using Deep Learning**
 
 ## **Objective**
@@ -110,6 +90,4 @@ This project successfully demonstrates a complete workflow from dataset preparat
 * Use bounding box annotations to train a face detection + classification model in one step
 * Deploy the model using Flask or Streamlit for web-based applications
 
----
 
-Would you like a formatted PDF version of this report or integration into a README file for GitHub?
